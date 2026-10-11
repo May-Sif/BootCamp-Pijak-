@@ -1,0 +1,18 @@
+name: Heart Disease Training Project
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      n_estimators: {type: int, default: 100}
+      max_depth: {type: int, default: 10}
+      test_size: {type: float, default: 0.2}
+      random_state: {type: int, default: 42}
+    command: "python modelling.py --n_estimators {n_estimators} --max_depth {max_depth} --test_size {test_size} --random_state {random_state}"
+  
+  tune:
+    parameters:
+      n_estimators_list: {type: string, default: "50,100,200"}
+      max_depth_list: {type: string, default: "3,5,10"}
+      cv_folds: {type: int, default: 5}
+    command: "python modelling_tuning.py --n_estimators_list {n_estimators_list} --max_depth_list {max_depth_list} --cv_folds {cv_folds}"

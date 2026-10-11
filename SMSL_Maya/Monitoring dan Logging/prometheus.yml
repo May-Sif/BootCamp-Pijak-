@@ -1,0 +1,21 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: 'model_serving'
+    static_configs:
+      - targets: ['localhost:8000']
+    metrics_path: '/metrics'
+    
+  - job_name: 'system_metrics'
+    static_configs:
+      - targets: ['localhost:9100']  # node_exporter
+    
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets: ['localhost:9093']
+
+rule_files:
+  - 'alerts.yml'

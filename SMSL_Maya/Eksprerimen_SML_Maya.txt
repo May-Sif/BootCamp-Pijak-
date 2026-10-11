@@ -1,0 +1,17 @@
+Eksperimen_SML_Maya
+===================
+
+Nama: Maya Sifa Zannuba
+
+GitHub Repository: https://github.com/May-Sif/Eksperimen_SML_Maya
+
+Struktur Repository:
+├── heart.csv (raw dataset)
+├── preprocessing/
+│   ├── Eksperimen_Maya.ipynb
+│   └── automate_Maya.py
+└── heart_preprocessing.csv (hasil preprocessing)
+
+Keterangan:
+- Notebook eksperimen: Data loading, EDA, Preprocessing (drop_duplicates, StandardScaler)
+- automate_Maya.py: Script otomatisasi preprocessing

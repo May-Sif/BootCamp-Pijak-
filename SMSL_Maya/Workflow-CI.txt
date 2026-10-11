@@ -1,0 +1,25 @@
+Workflow-CI Repository
+======================
+
+Link GitHub Repository: https://github.com/may-sif/Workflow-CI
+
+Struktur Repository:
+- .github/workflows/mlflow-train.yml  -> GitHub Actions workflow
+- MLProject/
+  ├── modelling.py                     -> Script training model
+  ├── conda.yaml                       -> Environment dependencies
+  ├── MLProject                        -> MLflow project file
+  └── heart_preprocessing.csv          -> Dataset preprocessing
+
+Cara Penggunaan:
+1. Push ke branch main akan trigger workflow otomatis
+2. Workflow akan menjalankan training model dengan MLflow
+3. Artifacts (model, metrics) tersimpan di GitHub Actions
+
+Workflow Trigger:
+- Push ke branch main/master
+- Pull request ke main/master
+- Manual trigger via GitHub Actions UI
+
+Status Workflow: 
+[https://github.com/may-sif/Workflow-CI/actions](https://github.com/may-sif/Workflow-CI/actions)

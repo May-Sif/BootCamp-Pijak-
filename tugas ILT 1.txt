@@ -1,0 +1,53 @@
+SMART Goal: Menjadi AI Engineer
+S — Specific (Spesifik)
+Saya akan menjadi AI Engineer yang memiliki kemampuan dalam:
+	- Machine Learning
+	- Deep Learning
+	- Matematika AI (linear algebra, kalkulus, probabilitas)
+	- Implementasi model menggunakan Python (PyTorch/TensorFlow)
+	- Membangun minimal 3 proyek AI nyata (end-to-end)
+
+M — Measurable (Terukur)
+Target terukur saya:
+	- Menyelesaikan minimal 2 course Machine Learning (misalnya Coursera / Fast.ai)
+
+	- Menguasai:
+		Turunan & gradien
+		Eigenvalue & eigenvector
+		Probabilitas dasar
+
+	- Membuat:
+		1 proyek ML klasik (misal klasifikasi)
+		1 proyek Deep Learning (misal image classification)
+		1 proyek AI terapan (misal chatbot atau sistem rekomendasi)
+
+	- Ikut minimal 1 kompetisi Kaggle
+
+A — Achievable (Dapat Dicapai)
+Saya akan:
+	- Belajar 1–2 jam per hari
+	- Fokus pada Python dan matematika dulu
+	- Konsisten latihan coding 
+	- Dokumentasi proyek di GitHub
+
+R — Relevant (Relevan)
+Menjadi AI Engineer relevan dengan:
+	- Minat saya di matematika & pemrograman
+	- Latar belakang Informatika
+	- Perkembangan teknologi global (AI booming banget)
+	- Potensi karier jangka panjang di riset atau industri teknologi
+
+T — Time-bound (Batas Waktu)
+timeline 3 tahun:
+Tahun 1
+	- Kuasai Python + matematika dasar AI
+	- Selesaikan 1 course ML
+	- Buat 1 proyek ML sederhana
+Tahun 2
+	- Dalami Deep Learning
+	- Buat 2 proyek DL
+	- Ikut kompetisi
+Tahun 3
+	- Bangun portfolio solid
+	- Magang/riset AI
+	- Publikasi kecil / kontribusi open-source

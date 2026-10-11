@@ -1,0 +1,16 @@
+1.Tantangan: Perbedaan kepribadian (introvert vs. ekstrovert) dan kendala sinkronisasi waktu saat diskusi daring.
+Strategi saya:Kontrak komunikasi tim di hari pertama: Kami sepakat menggunakan WhatsApp untuk notifikasi cepat, Discord untuk voice call terjadwal, dan Trello untuk mencatat progres. Ini mengatasi hambatan platform. Menghadapi anggota pendiam: Saya menggunakan teknik round-robin di breakout room – setiap orang wajib bicara 1 poin. Untuk anggota yang lebih nyaman tertulis, saya minta mereka menulis di sticky note Miro sebelum presentasi.
+
+2. Pergeseran fokus: Awalnya saya terbiasa mengerjakan tugas individu dengan target pribadi (menyelesaikan 1 modul/hari). Di Pijak, saya sadar bahwa kegagalan satu anggota menghambat seluruh tim.
+Adaptasi yang dilakukan:Menghormati ide orang lain: Dalam diskusi fitur, saya menerapkan aturan “Yes, and…” (tanpa memotong). Bahkan saat ide rekan menurut saya kurang efisien, saya tetap coba prototipe sederhana dulu. Menyesuaikan norma tim: Tim kami memiliki aturan “no silent revision”, setiap perubahan kode harus diumumkan di grup. Awalnya terasa lambat, tapi saya biasakan dengan membuat template notifikasi otomatis.
+
+3. Cara Belajar: Memanfaatkan Ekosistem Pijak
+Metode sistematis saya:Mentoring terstruktur: Setiap minggu saya siapkan 3 pertanyaan spesifik untuk mentor (bukan “saya bingung”, tapi “di baris 45, fungsi callback ini error padahal referensi dokumentasi sesuai”). Saya juga meminta code review rekaman agar bisa dipelajari ulang.
+
+4. Cara Bekerja: Lingkungan baru: Pijak menggunakan template di google colab yang saya sendiri masih kurang terlalu paham penggunakaannya
+Penyesuaian ekstrem: Awalnya saya kewalahan. Saya beradaptasi dengan metode learning by doing—setiap hari saya memilih 1 fitur baru untuk dieksplorasi dan langsung mempraktikkannya. Contoh: Saya membuat papan Miro sederhana untuk customer journey map produk tim, lalu meminta mentor memberi umpan balik. Saya juga menyimpan cheat sheet shortcut keyboard di desktop.
+
+5. Cara Berpikir: Dari Fixed ke Growth Mindset
+Kondisi awal: Saya dulu merasa “Saya bukan orang teknis, jadi wajar tidak paham coding.” Saya mudah frustrasi saat error dan menganggapnya kegagalan pribadi.
+Transisi di Pijak:
+Mengubah bahasa internal: Dari “Saya tidak bisa deploy” menjadi “Saya belum bisa deploy dengan cara ini saya perlu coba metode lain.” Saya mulai menulis jurnal error dengan kolom: “Apa yang sudah dicoba”, “Apa asumsi saya yang salah”, “Siapa yang bisa saya tanya”.
